@@ -1,0 +1,167 @@
+
+  .textc{
+    line-height: 0.5;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+  }
+  #ch :hover .hov{
+    opacity: 0.5;
+  }
+  #style{
+    padding-top: 42px;
+  }
+  #news{
+    padding-top: 42px;
+  
+  }
+  .textaa{
+    width: 421px;
+  float: right;
+  height: 29px;
+  border-radius: 1px;
+  }
+  #log{
+    width: 157px;
+  }
+  .nbb{
+    width: 560px;
+    display: block;
+    margin: auto;
+    margin-top: 23px;
+  }
+  #zxc{
+    font-size: 22px;
+      margin-top: 9px;
+      color: #ed1c24;
+  }
+  .nnb{
+    margin-left: 6px;
+      margin-top: 8px;
+      font-size: 12px;
+  }
+  #spp{
+    width: 38px;
+    float: right;
+  }
+  
+  .bta{
+    display: flex;
+    margin: auto;
+  }
+  #socials{
+    padding-bottom: 45px;
+  }
+  .btnr{
+    background-color: #2a2a2a;
+    color: white;
+    width: 197px;
+      height: 40px;
+      border-radius: 27px;
+  }
+  #ico{
+    margin-left: -30px;
+    margin-top: 10px;
+    font-size: 14px;
+  }
+  .call{
+    width: 127px;
+  }
+  #sic{
+    font-size: 35px;
+    color: white;
+  }
+  .icons{
+    width: 372px;
+    display: flex;
+    margin: auto;
+  }
+  .sid{
+    margin-top: 46px;
+  }
+  .imgsi{
+    margin-top: 24px;
+  }
+  #foot{
+    background-color: #425368;
+    height: 90px;
+  }
+  .ft1{
+    padding-top: 21px;
+    color: #fff;
+  }
+  .ft2 {
+    padding-bottom: 2px;
+    color: #cfcecd;
+    font-size: 13px;
+  }
+  /*<![CDATA[*/
+  #ftza{
+    margin-left: -103px;
+    font-size: 14px;
+    text-align: left !important;
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 2.5;
+  }
+  #fota{
+    padding-top: 29px;
+      padding-bottom: 40px;
+  }
+  
+  
+  #fontaa{
+    font-size: 36px;
+    color: white;
+    padding-left: 14px;
+      padding-top: 5px;
+  }
+  #fontaaz{
+    font-size: 26px;
+    color: white;
+    padding-left: 14px;
+    padding-top: 14px;
+  }
+  #btdd{
+    width: 165px;
+      border-radius: 6px;
+      background-color: black;
+  }
+  .avc{
+    padding-top: 6px;
+    padding-bottom: 5px;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  .icd{
+    display: flex;
+      width: 618px;
+  float: right;
+  margin-top: -58px;
+  margin-right: 92px;
+    }
+    
+    
+    @media (min-width:360px) and (max-width : 767px){
+     .nbb{
+         width: 258px !important;
+     }   
+     #spp{
+        width: 41px;
+        float: right;
+        margin-top: -30px;
+     }
+     .textaa{
+         width: 226px;
+     }
+     .icd{
+        width: 315px;
+        margin: auto;
+     }
+     .sid{
+         margin-top: 96px;
+     }
+     .icons{
+         width: 352px;
+     }
+     #ftza{
+         margin-left: 0px !important;
+     }
+    }
